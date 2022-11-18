@@ -1,0 +1,12 @@
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Game.Interfaces\bin\Debug\net6.0\Game.Interfaces.deps.json
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Game.Interfaces\bin\Debug\net6.0\Game.Interfaces.dll
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Game.Interfaces\bin\Debug\net6.0\Game.Interfaces.pdb
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\net6.0\Game.Interfaces.csproj.AssemblyReference.cache
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\net6.0\Game.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\net6.0\Game.Interfaces.AssemblyInfoInputs.cache
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\net6.0\Game.Interfaces.AssemblyInfo.cs
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\net6.0\Game.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\net6.0\Game.Interfaces.dll
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\net6.0\refint\Game.Interfaces.dll
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\net6.0\Game.Interfaces.pdb
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\net6.0\ref\Game.Interfaces.dll

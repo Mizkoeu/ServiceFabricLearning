@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "vvTF//zhJJG2+BxTVcsFRKA1r4MTNG7GYktpIuEKVoi2Ra/j6ny4jTHvyTEoEruegA3jz/BHJEzyfppopEEzFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mizou\\source\\repos\\ActorTicTacToeApplication\\Player.Interfaces\\Player.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mizou\\.nuget\\packages\\microsoft.servicefabric\\9.0.1028\\microsoft.servicefabric.9.0.1028.nupkg.sha512",
+    "C:\\Users\\mizou\\.nuget\\packages\\microsoft.servicefabric.actors\\6.0.1028\\microsoft.servicefabric.actors.6.0.1028.nupkg.sha512",
+    "C:\\Users\\mizou\\.nuget\\packages\\microsoft.servicefabric.data\\6.0.1028\\microsoft.servicefabric.data.6.0.1028.nupkg.sha512",
+    "C:\\Users\\mizou\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\6.0.1028\\microsoft.servicefabric.data.extensions.6.0.1028.nupkg.sha512",
+    "C:\\Users\\mizou\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\6.0.1028\\microsoft.servicefabric.data.interfaces.6.0.1028.nupkg.sha512",
+    "C:\\Users\\mizou\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\6.0.1028\\microsoft.servicefabric.diagnostics.internal.6.0.1028.nupkg.sha512",
+    "C:\\Users\\mizou\\.nuget\\packages\\microsoft.servicefabric.fabrictransport.internal\\6.0.1028\\microsoft.servicefabric.fabrictransport.internal.6.0.1028.nupkg.sha512",
+    "C:\\Users\\mizou\\.nuget\\packages\\microsoft.servicefabric.services\\6.0.1028\\microsoft.servicefabric.services.6.0.1028.nupkg.sha512",
+    "C:\\Users\\mizou\\.nuget\\packages\\microsoft.servicefabric.services.remoting\\6.0.1028\\microsoft.servicefabric.services.remoting.6.0.1028.nupkg.sha512",
+    "C:\\Users\\mizou\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

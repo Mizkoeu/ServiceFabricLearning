@@ -1,0 +1,12 @@
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Player.Interfaces\bin\Debug\net6.0\Player.Interfaces.deps.json
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Player.Interfaces\bin\Debug\net6.0\Player.Interfaces.dll
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Player.Interfaces\bin\Debug\net6.0\Player.Interfaces.pdb
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\net6.0\Player.Interfaces.csproj.AssemblyReference.cache
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\net6.0\Player.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\net6.0\Player.Interfaces.AssemblyInfoInputs.cache
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\net6.0\Player.Interfaces.AssemblyInfo.cs
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\net6.0\Player.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\net6.0\Player.Interfaces.dll
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\net6.0\refint\Player.Interfaces.dll
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\net6.0\Player.Interfaces.pdb
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\net6.0\ref\Player.Interfaces.dll

@@ -1,0 +1,5 @@
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.0\Game.Interfaces.csproj.AssemblyReference.cache
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.0\Game.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.0\Game.Interfaces.AssemblyInfoInputs.cache
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.0\Game.Interfaces.AssemblyInfo.cs
+C:\Users\mizou\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.0\Game.Interfaces.csproj.CoreCompileInputs.cache
